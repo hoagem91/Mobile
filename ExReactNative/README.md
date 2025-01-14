@@ -30,3 +30,5 @@
 ### Khi nào nên dùng:
 - **FlatList**: Khi hiển thị danh sách đơn giản, không cần phân nhóm.  
 - **SectionList**: Khi dữ liệu có cấu trúc phân nhóm rõ ràng và cần hiển thị tiêu đề nhóm.  
+### Ảnh sản phẩm
+![Screenshot](./assets/14-1.jpg)
